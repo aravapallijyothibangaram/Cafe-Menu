@@ -47,3 +47,6 @@ index.html   – Structure
 style.css    – Styling
 
 📷 Screenshot
+<img width="1898" height="965" alt="Image" src="https://github.com/user-attachments/assets/e02b1264-ed5f-4fd6-9bb7-0ca2777b1ae1" />
+
+<img width="1891" height="934" alt="Image" src="https://github.com/user-attachments/assets/8bcabb83-2917-462d-890c-eca8a1813d03" />
